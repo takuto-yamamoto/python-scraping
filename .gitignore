@@ -6,3 +6,6 @@ scrapingEnv/
 
 ## python
 __pycache__/
+
+## outputs
+*.csv

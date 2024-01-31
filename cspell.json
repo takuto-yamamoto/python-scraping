@@ -1,3 +1,10 @@
 {
-  "words": ["scrapy", "linkextractors", "NEWSPIDER", "ROBOTSTXT"]
+  "userWords": [
+    "scrapy",
+    "linkextractors",
+    "NEWSPIDER",
+    "ROBOTSTXT",
+    "wikitable",
+    "pymysql"
+  ]
 }
