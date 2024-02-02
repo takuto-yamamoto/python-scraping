@@ -5,6 +5,7 @@
     "NEWSPIDER",
     "ROBOTSTXT",
     "wikitable",
-    "pymysql"
+    "pymysql",
+    "mysqld"
   ]
 }
