@@ -1,0 +1,2 @@
+DELETE FROM pages
+WHERE id = 3

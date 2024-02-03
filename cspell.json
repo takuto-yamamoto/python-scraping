@@ -1,11 +1,12 @@
 {
-  "userWords": [
+  "words": [
     "scrapy",
     "linkextractors",
     "NEWSPIDER",
     "ROBOTSTXT",
     "wikitable",
     "pymysql",
-    "mysqld"
+    "mysqld",
+    "AUTOINCREMENT"
   ]
 }
