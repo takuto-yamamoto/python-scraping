@@ -1,12 +1,14 @@
 {
   "words": [
-    "scrapy",
+    "AUTOINCREMENT",
+    "executescript",
+    "lastrowid",
     "linkextractors",
-    "NEWSPIDER",
-    "ROBOTSTXT",
-    "wikitable",
-    "pymysql",
     "mysqld",
-    "AUTOINCREMENT"
+    "NEWSPIDER",
+    "pymysql",
+    "ROBOTSTXT",
+    "scrapy",
+    "wikitable"
   ]
 }

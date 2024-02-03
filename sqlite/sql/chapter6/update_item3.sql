@@ -1,4 +1,4 @@
 UPDATE pages
-set title = "new title 3",
-  content = "new content 3"
+set title = "新しいタイトル3",
+  content = "新しいコンテンツ3"
 WHERE id = 3
