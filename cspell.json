@@ -9,6 +9,9 @@
     "pymysql",
     "ROBOTSTXT",
     "scrapy",
-    "wikitable"
+    "wikitable",
+    "laparams",
+    "pdfminer",
+    "pdfinterp"
   ]
 }
