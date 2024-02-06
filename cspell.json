@@ -12,6 +12,7 @@
     "wikitable",
     "laparams",
     "pdfminer",
-    "pdfinterp"
+    "pdfinterp",
+    "chromedriver"
   ]
 }
